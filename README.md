@@ -105,4 +105,4 @@ This software is provided as-is for educational and personal use. Ensure you hav
 
 ## Future Plans:
 
-- Will be working on UI and better Navigation in near Future.
+- Will be working on UI and better Navigation in near Future. (Paused)
